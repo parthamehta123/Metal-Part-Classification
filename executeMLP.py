@@ -1,8 +1,6 @@
 """
 file: executeMLP.py
 language: python3
-author: rss1103@rit.edu Rohan Shiroor
-        sm2290@rit.edu Sandhya Murali
 
 Uses a trained MLP to perform classification of the test data.
 """

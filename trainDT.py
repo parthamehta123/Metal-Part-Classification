@@ -1,8 +1,6 @@
 """
 file: trainDT.py
 language: python3
-author: rss1103@rit.edu Rohan Shiroor
-        sm2290@rit.edu Sandhya Murali
 
 Builds a decision tree model from training samples.
 """

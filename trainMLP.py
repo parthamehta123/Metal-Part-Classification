@@ -1,8 +1,6 @@
 """
 file: trainMLP.py
 language: python3
-author: rss1103@rit.edu Rohan Shiroor
-        sm2290@rit.edu Sandhya Murali
 This program trains a multi-layer perceptron on training data
 provided by the user.
 """

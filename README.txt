@@ -1,11 +1,3 @@
-﻿Foundations of Intelligent Systems
-Project 2
-
-
-SANDHYA MURLI (sm2290@g.rit.edu)
-ROHAN SHIROOR (rss1103@g.rit.edu)
-
-
 ----------------------------------------------------------------------------------
 Files in this directory:
 
@@ -93,19 +85,6 @@ Leaf Nodes Before Pruning is : 10
 
 3. Decision Boundary before Pruning:
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
 B. AFTER PRUNING 
 
 
@@ -150,11 +129,6 @@ Leaf Nodes After Pruning is : 4
 
  3. Decision Boundary after Pruning: 
 
-
-  
-
-
-
 For testing the decision tree:
 
 
@@ -170,9 +144,6 @@ A:  BEFORE PRUNING :
 
 
 1. Prints the tree
-
-
-
 
 ------------------------BEFORE PRUNING---------------------------------
  ATTRIBUTE SPLIT :  2 ATTRIBUTE SPLIT VALUE :  0.25143 CLASS :  0
@@ -205,24 +176,13 @@ A:  BEFORE PRUNING :
 
 --------------------TOTAL ACCURACY (OVERALL RECOGNITION RATE)-------------------------------
 
-
 Overall Accuracy (Recognition Rate) is :  95.0 %
-
-
-
 
 -------------------------- MEAN PER CLASS ACCURACY -------------------------------
 
-
 Mean per Class Accuracy is :  93.75
 
-
-
-
-
-
 --------------------------CONFUSION MATRIX-------------------------------
-
 
                                  ACTUAL                                                                 
 
@@ -318,17 +278,7 @@ TOTAL                        5                6                5                
 
 Total Profit is :  199
 
-
-
-
-
-
-
-
 3. Decision Boundary
-  
-
-
 
 ----------------------------FOR MLP--------------------------------------------
 
@@ -446,10 +396,14 @@ Total Profit is :  203
 
 
 2. Decision Boundary
+                        Fig: Decision Boundary for 10,000 epochs
 
 
-  
 
 
 
-                Fig: Decision Boundary for 10,000 epochs
+
+
+
+
+                
